@@ -1,0 +1,13 @@
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\maorm\OneDrive\מסמכים\Visual Studio 2013\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojResolveAssemblyReference.cache
